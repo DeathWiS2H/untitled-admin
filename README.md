@@ -1,6 +1,6 @@
 # Untitled Admin
 
-A comprehensive command system and administrative GUI for Roblox with an extensive library of commands, organized categories, and a modern interface.
+A comprehensive command system and administrative GUI for Roblox with an extensive library of commands.
 
 ## 🔗 Loadstring
 
